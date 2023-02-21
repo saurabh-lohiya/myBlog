@@ -3,6 +3,6 @@
 -- fastn.package: saurabh-lohiya.github.io/myblog
 download-base-url: https://raw.githubusercontent.com/saurabh-lohiya/myblog/main
 
--- fastn.dependency: fifthtry.github.io/doc-site as ds
+-- fastn.dependency: fifthtry.github.io/ds-set-1
 
--- fastn.auto-import: ds
+-- fastn.auto-import: fifthtry.github.io/ds-set-1/lib as ds
